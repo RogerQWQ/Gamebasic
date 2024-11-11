@@ -1,0 +1,3 @@
+herox: 562
+heroy: 490
+health: 3
